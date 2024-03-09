@@ -1,0 +1,36 @@
+[0.387s] Invoking command in '/home/minseok/unibotsuk24_ws/src/robusta': PYTHONPATH=/home/minseok/unibotsuk24_ws/build/robusta/prefix_override:/home/minseok/unibotsuk24_ws/install/robusta/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/robusta build --build-base /home/minseok/unibotsuk24_ws/build/robusta/build install --record /home/minseok/unibotsuk24_ws/build/robusta/install.log --single-version-externally-managed
+[0.497s] running egg_info
+[0.497s] creating ../../build/robusta/robusta.egg-info
+[0.497s] writing ../../build/robusta/robusta.egg-info/PKG-INFO
+[0.497s] writing dependency_links to ../../build/robusta/robusta.egg-info/dependency_links.txt
+[0.497s] writing entry points to ../../build/robusta/robusta.egg-info/entry_points.txt
+[0.497s] writing requirements to ../../build/robusta/robusta.egg-info/requires.txt
+[0.497s] writing top-level names to ../../build/robusta/robusta.egg-info/top_level.txt
+[0.497s] writing manifest file '../../build/robusta/robusta.egg-info/SOURCES.txt'
+[0.498s] reading manifest file '../../build/robusta/robusta.egg-info/SOURCES.txt'
+[0.498s] adding license file 'LICENSE'
+[0.498s] writing manifest file '../../build/robusta/robusta.egg-info/SOURCES.txt'
+[0.498s] running build
+[0.498s] running build_py
+[0.498s] creating /home/minseok/unibotsuk24_ws/build/robusta/build
+[0.498s] creating /home/minseok/unibotsuk24_ws/build/robusta/build/lib
+[0.498s] creating /home/minseok/unibotsuk24_ws/build/robusta/build/lib/robusta
+[0.499s] copying robusta/__init__.py -> /home/minseok/unibotsuk24_ws/build/robusta/build/lib/robusta
+[0.499s] running install
+[0.506s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.506s]   warnings.warn(
+[0.506s] running install_lib
+[0.507s] creating /home/minseok/unibotsuk24_ws/install/robusta/lib/python3.10/site-packages/robusta
+[0.507s] copying /home/minseok/unibotsuk24_ws/build/robusta/build/lib/robusta/__init__.py -> /home/minseok/unibotsuk24_ws/install/robusta/lib/python3.10/site-packages/robusta
+[0.507s] byte-compiling /home/minseok/unibotsuk24_ws/install/robusta/lib/python3.10/site-packages/robusta/__init__.py to __init__.cpython-310.pyc
+[0.508s] running install_data
+[0.508s] creating /home/minseok/unibotsuk24_ws/install/robusta/share/ament_index
+[0.508s] creating /home/minseok/unibotsuk24_ws/install/robusta/share/ament_index/resource_index
+[0.508s] creating /home/minseok/unibotsuk24_ws/install/robusta/share/ament_index/resource_index/packages
+[0.508s] copying resource/robusta -> /home/minseok/unibotsuk24_ws/install/robusta/share/ament_index/resource_index/packages
+[0.508s] copying package.xml -> /home/minseok/unibotsuk24_ws/install/robusta/share/robusta
+[0.508s] running install_egg_info
+[0.509s] Copying ../../build/robusta/robusta.egg-info to /home/minseok/unibotsuk24_ws/install/robusta/lib/python3.10/site-packages/robusta-0.0.0-py3.10.egg-info
+[0.509s] running install_scripts
+[0.519s] writing list of installed files to '/home/minseok/unibotsuk24_ws/build/robusta/install.log'
+[0.534s] Invoked command in '/home/minseok/unibotsuk24_ws/src/robusta' returned '0': PYTHONPATH=/home/minseok/unibotsuk24_ws/build/robusta/prefix_override:/home/minseok/unibotsuk24_ws/install/robusta/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/robusta build --build-base /home/minseok/unibotsuk24_ws/build/robusta/build install --record /home/minseok/unibotsuk24_ws/build/robusta/install.log --single-version-externally-managed

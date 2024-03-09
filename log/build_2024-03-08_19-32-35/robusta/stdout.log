@@ -1,0 +1,32 @@
+running egg_info
+creating ../../build/robusta/robusta.egg-info
+writing ../../build/robusta/robusta.egg-info/PKG-INFO
+writing dependency_links to ../../build/robusta/robusta.egg-info/dependency_links.txt
+writing entry points to ../../build/robusta/robusta.egg-info/entry_points.txt
+writing requirements to ../../build/robusta/robusta.egg-info/requires.txt
+writing top-level names to ../../build/robusta/robusta.egg-info/top_level.txt
+writing manifest file '../../build/robusta/robusta.egg-info/SOURCES.txt'
+reading manifest file '../../build/robusta/robusta.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/robusta/robusta.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/minseok/unibotsuk24_ws/build/robusta/build
+creating /home/minseok/unibotsuk24_ws/build/robusta/build/lib
+creating /home/minseok/unibotsuk24_ws/build/robusta/build/lib/robusta
+copying robusta/__init__.py -> /home/minseok/unibotsuk24_ws/build/robusta/build/lib/robusta
+running install
+running install_lib
+creating /home/minseok/unibotsuk24_ws/install/robusta/lib/python3.10/site-packages/robusta
+copying /home/minseok/unibotsuk24_ws/build/robusta/build/lib/robusta/__init__.py -> /home/minseok/unibotsuk24_ws/install/robusta/lib/python3.10/site-packages/robusta
+byte-compiling /home/minseok/unibotsuk24_ws/install/robusta/lib/python3.10/site-packages/robusta/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/minseok/unibotsuk24_ws/install/robusta/share/ament_index
+creating /home/minseok/unibotsuk24_ws/install/robusta/share/ament_index/resource_index
+creating /home/minseok/unibotsuk24_ws/install/robusta/share/ament_index/resource_index/packages
+copying resource/robusta -> /home/minseok/unibotsuk24_ws/install/robusta/share/ament_index/resource_index/packages
+copying package.xml -> /home/minseok/unibotsuk24_ws/install/robusta/share/robusta
+running install_egg_info
+Copying ../../build/robusta/robusta.egg-info to /home/minseok/unibotsuk24_ws/install/robusta/lib/python3.10/site-packages/robusta-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/minseok/unibotsuk24_ws/build/robusta/install.log'

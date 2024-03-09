@@ -1,0 +1,6 @@
+source;share/robusta/hook/pythonpath.ps1
+source;share/robusta/hook/pythonpath.dsv
+source;share/robusta/hook/pythonpath.sh
+source;share/robusta/hook/ament_prefix_path.ps1
+source;share/robusta/hook/ament_prefix_path.dsv
+source;share/robusta/hook/ament_prefix_path.sh

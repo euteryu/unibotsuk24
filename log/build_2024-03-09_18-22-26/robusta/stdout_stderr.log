@@ -1,0 +1,23 @@
+running egg_info
+writing ../../build/robusta/robusta.egg-info/PKG-INFO
+writing dependency_links to ../../build/robusta/robusta.egg-info/dependency_links.txt
+writing entry points to ../../build/robusta/robusta.egg-info/entry_points.txt
+writing requirements to ../../build/robusta/robusta.egg-info/requires.txt
+writing top-level names to ../../build/robusta/robusta.egg-info/top_level.txt
+reading manifest file '../../build/robusta/robusta.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/robusta/robusta.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+/usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/minseok/unibotsuk24_ws/install/robusta/lib/python3.10/site-packages/robusta-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/robusta/robusta.egg-info to /home/minseok/unibotsuk24_ws/install/robusta/lib/python3.10/site-packages/robusta-0.0.0-py3.10.egg-info
+running install_scripts
+Installing decision_maker script to /home/minseok/unibotsuk24_ws/install/robusta/lib/robusta
+Installing send_decision script to /home/minseok/unibotsuk24_ws/install/robusta/lib/robusta
+writing list of installed files to '/home/minseok/unibotsuk24_ws/build/robusta/install.log'

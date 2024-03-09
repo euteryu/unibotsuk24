@@ -1,0 +1,4 @@
+[console_scripts]
+decision_maker = robusta.decision_maker:main
+send_decision = robusta.send_decision:main
+
